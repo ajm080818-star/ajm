@@ -613,7 +613,13 @@ const menuImages = {
   '레몬 허브 치킨 파스타':'assets/images/menu-chicken-pasta.jpg',
   '콜라':'assets/images/menu-cola.jpg',
   '사이다':'assets/images/menu-soda.jpg',
-  '오렌지 주스':'assets/images/menu-orange-juice.jpg'
+  '오렌지 주스':'assets/images/menu-orange-juice.jpg',
+  '자몽 로즈마리 에이드': 'assets/images/menu-grapefruit-rosemary.jpg',
+  '레몬 스파클링': 'assets/images/menu-lemon-sparkling.jpg',
+  '하우스 카베르네 소비뇽': 'assets/images/menu-house-cabernet-sauvignon.jpg',
+  '오크 셀러 쉬라즈': 'assets/images/menu-oak-cellar-shiraz.jpg',
+  '가든 로제 피노': 'assets/images/menu-garden-rosé-pinot.jpg',
+  '브뤼 스파클링': 'assets/images/menu-brut-sparkling.jpg'
 };
 const categoryLinks = [
   ['steak', 'steak.html'], ['kids', 'kids.html'], ['sides', 'sides.html'], ['pasta', 'pasta.html'], ['drinks', 'drinks.html'], ['wine', 'wine.html']
